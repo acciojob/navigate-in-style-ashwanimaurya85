@@ -2,12 +2,11 @@
 ul{
 	background-color: #D3D3D3; 
 	padding: 10px;
+	border: 1px solid;
 }
 li{
-	display: inline;
+		display: inline;
 	margin-right: 1rem;
 	list-style-type: none;
-	
-	
 	
 }
