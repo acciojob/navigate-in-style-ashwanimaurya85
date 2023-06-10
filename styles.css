@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 ul{
 	background-color: #D3D3D3; 
-	border: 1px solid;
+	padding: 10px;
 }
 li{
-	padding: 10px;
+	display: inline;
 	margin-right: 1rem;
 	list-style-type: none;
-	display: inline;
+	
 	
 	
 }
