@@ -1,15 +1,13 @@
 /*  your css code here. If applicable */
 ul{
 	background-color: #D3D3D3; 
-	
-	overflow:auto;
 	border: 1px solid;
 }
 li{
 	padding: 10px;
 	margin-right: 1rem;
 	list-style-type: none;
-	float:left;
+	display: inline;
 	
 	
 }
